@@ -1,0 +1,6 @@
+{
+  "name": "KOEI - Dashboard PPID UID Kaltimra",
+  "description": "Aplikasi Web Keterbukaan Informasi Publik (PPID) Terintegrasi PLN UID Kalimantan Timur dan Kalimantan Utara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
